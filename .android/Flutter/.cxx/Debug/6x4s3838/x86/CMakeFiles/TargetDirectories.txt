@@ -1,0 +1,2 @@
+C:/ornekler/harrypotter/.android/Flutter/.cxx/Debug/6x4s3838/x86/CMakeFiles/edit_cache.dir
+C:/ornekler/harrypotter/.android/Flutter/.cxx/Debug/6x4s3838/x86/CMakeFiles/rebuild_cache.dir

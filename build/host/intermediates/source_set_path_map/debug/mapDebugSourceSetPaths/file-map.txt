@@ -1,0 +1,33 @@
+com.example.harrypotter.host.app-jetified-activity-1.8.1-0 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\043ec47a978aabf3c91f62872a20209f\transformed\jetified-activity-1.8.1\res
+com.example.harrypotter.host.app-fragment-1.7.1-1 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\0a3aa0146b12495ac9a3b6997747d7df\transformed\fragment-1.7.1\res
+com.example.harrypotter.host.app-jetified-core-ktx-1.13.1-2 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\0bb5e2129804fad2af036a363ae37960\transformed\jetified-core-ktx-1.13.1\res
+com.example.harrypotter.host.app-jetified-annotation-experimental-1.4.0-3 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\0be0ab220bc5fdba4c3cb63c86db3284\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.harrypotter.host.app-jetified-window-java-1.2.0-4 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\0f15b1a1dfb93145da3f0ac002057922\transformed\jetified-window-java-1.2.0\res
+com.example.harrypotter.host.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-5 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\0f984a57db3e7e9f1cc4edb38139892a\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.harrypotter.host.app-jetified-window-1.2.0-6 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\3039fe9621c010d55c26881ea1a65bdf\transformed\jetified-window-1.2.0\res
+com.example.harrypotter.host.app-jetified-savedstate-1.2.1-7 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\306e4bdf1a187493a6e3b9953a285757\transformed\jetified-savedstate-1.2.1\res
+com.example.harrypotter.host.app-jetified-lifecycle-process-2.7.0-8 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\3469158c6c55ae2fbafbff259db55fee\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.harrypotter.host.app-lifecycle-viewmodel-2.7.0-9 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\38ea3e9203114529672b039250870911\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.harrypotter.host.app-core-1.13.1-10 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\40fd1594a1742a0d99e54bd79ecec481\transformed\core-1.13.1\res
+com.example.harrypotter.host.app-jetified-lifecycle-livedata-core-ktx-2.7.0-11 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\4bd5d0c886211f5d0f38f1d9c1b5fad9\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.harrypotter.host.app-coordinatorlayout-1.0.0-12 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\526373495506caa2bbbcae5298996bae\transformed\coordinatorlayout-1.0.0\res
+com.example.harrypotter.host.app-lifecycle-runtime-2.7.0-13 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\5297c64d9885486714568535ad7212c2\transformed\lifecycle-runtime-2.7.0\res
+com.example.harrypotter.host.app-jetified-core-1.0.0-14 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\533972ec7eea20afb094e54dddc13ac5\transformed\jetified-core-1.0.0\res
+com.example.harrypotter.host.app-lifecycle-livedata-core-2.7.0-15 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\8502da0c31e32104e1f4f254bfc7721c\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.harrypotter.host.app-jetified-tracing-1.2.0-16 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\8aae97ee2a824e9a1de1aa1308d60639\transformed\jetified-tracing-1.2.0\res
+com.example.harrypotter.host.app-appcompat-1.0.2-17 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\a1953920b1261ddd087b36c58a816eaa\transformed\appcompat-1.0.2\res
+com.example.harrypotter.host.app-jetified-startup-runtime-1.1.1-18 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\b568da4bed98f6aa85f18b7bf9ca768d\transformed\jetified-startup-runtime-1.1.1\res
+com.example.harrypotter.host.app-jetified-profileinstaller-1.3.1-19 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\b9040a1dab09d99941039457f6adb2ae\transformed\jetified-profileinstaller-1.3.1\res
+com.example.harrypotter.host.app-lifecycle-livedata-2.7.0-20 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\d0bb85283fc84e6c672ed7bc6dd2a9f9\transformed\lifecycle-livedata-2.7.0\res
+com.example.harrypotter.host.app-core-runtime-2.2.0-21 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\f6e3c4bb0f1e7487f51272b2baab5197\transformed\core-runtime-2.2.0\res
+com.example.harrypotter.host.app-constraintlayout-1.1.3-22 C:\Users\Bilal Kaya\.gradle\caches\8.10.2\transforms\fb69cfa2760dbf1c28466128fd61c260\transformed\constraintlayout-1.1.3\res
+com.example.harrypotter.host.app-debug-23 C:\ornekler\harrypotter\.android\Flutter\build\intermediates\packaged_res\debug\packageDebugResources
+com.example.harrypotter.host.app-debug-24 C:\ornekler\harrypotter\.android\app\src\debug\res
+com.example.harrypotter.host.app-main-25 C:\ornekler\harrypotter\.android\app\src\main\res
+com.example.harrypotter.host.app-debug-26 C:\ornekler\harrypotter\.android\plugins_build_output\path_provider_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.harrypotter.host.app-debug-27 C:\ornekler\harrypotter\.android\plugins_build_output\sqflite_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.harrypotter.host.app-pngs-28 C:\ornekler\harrypotter\build\host\generated\res\pngs\debug
+com.example.harrypotter.host.app-resValues-29 C:\ornekler\harrypotter\build\host\generated\res\resValues\debug
+com.example.harrypotter.host.app-packageDebugResources-30 C:\ornekler\harrypotter\build\host\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.harrypotter.host.app-packageDebugResources-31 C:\ornekler\harrypotter\build\host\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.harrypotter.host.app-debug-32 C:\ornekler\harrypotter\build\host\intermediates\merged_res\debug\mergeDebugResources
